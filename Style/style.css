@@ -17,7 +17,7 @@ header h1 {
   text-transform: uppercase;
 }
 .section0 {
-  background-image: url(/Código/img/fondo.png);
+  background-image: url(/img/fondo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
